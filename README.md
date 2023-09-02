@@ -53,11 +53,6 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    <br/>
    <br/>
 
-## 🔗 Links
-
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/SuperHero-Hunter-App)
->
-> ## Checkout the Application Demo Video [YouTube](https://www.youtube.com/watch?v=Y75R54qPHzI)
 
 <br/>
 
